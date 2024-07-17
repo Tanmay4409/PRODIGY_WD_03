@@ -1,4 +1,4 @@
-# PRODIGY_WD_02
+# PRODIGY_WD_03
 # Tic Tac Toe Project
 
 This is a simple web-based Tic Tac Toe application built with HTML, CSS, and JavaScript. The app allows user to play tic tac toe game with 2 user or with computer single player mode. Additionally, the footer contains social media links to LinkedIn, Instagram, and GitHub profiles.
